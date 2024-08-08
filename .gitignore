@@ -1,0 +1,11 @@
+# Ignore Python cache directories globally
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Ignore specific files and directories in the resume directory
+resume/RESUME
+resume/__pycache__/
+resume/venv/
