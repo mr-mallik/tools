@@ -1,5 +1,5 @@
 ## OBJECTIVE
-Highly skilled Software Engineer with 4+ years of experience in developing innovative solutions using Java, Python, and PHP. Expertise in full-stack development and AI-driven solutions with strong problem-solving abilities, adaptability, and effective communication skills. Passionate about leveraging technology to deliver high-quality solutions seeking `<JOB_ROLE>` role in `<COMPANY_NAME>`.
+Resourceful Software Engineer with 4+ years of experience in PHP development, including extensive work with Laravel and MySQL. Proficient in writing robust, object-oriented code and passionate about cybersecurity and innovative solutions. Seeking to leverage my skills in PHP coding, unit testing, and CI/CD processes to contribute to the backend development team at Pentest People.
 
 ## EXPERIENCE
 
@@ -8,57 +8,47 @@ Highly skilled Software Engineer with 4+ years of experience in developing innov
 *England, United Kingdom*  
 *Apr 2024 – Aug 2024*
 
-- Engineered an automated intelligent solution, significantly boosting team efficiency.
-- Facilitated revenue growth by increasing client capacity.
-- Conducted extensive data analysis to identify key areas for improvement, reducing operational costs.
-- Developed comprehensive documentation and training materials to ensure seamless knowledge transfer and adoption of new technologies.
+- Engineered an automated intelligent solution, enhancing team efficiency and incorporating modern web technologies.
+- Developed comprehensive documentation for system implementation, aligning with best practices in coding and development.
 
 ### Research and Development Software Engineer (Placement)
 *University of Huddersfield*  
 *England, United Kingdom*  
 *Oct 2023 – Apr 2024*
 
-- Co-developed ATMAS, enabling data-driven decisions and achieving numerous bookings within a short period.
-- Participated in the planning and execution of the software development life cycle (SDLC).
-- Conducted rigorous software testing and debugging to enhance system reliability and performance.
-- Collaborated with cross-functional teams to integrate new features, improving user experience and system functionality.
+- Co-developed web-based applications, focusing on robust coding practices and system reliability.
+- Implemented unit tests to ensure code quality, contributing to a more reliable development process.
 
 ### Software Engineer
 *Shop and Bakery Equipment Ltd*  
 *England, United Kingdom*  
 *Dec 2022 – Apr 2024*
 
-- Optimized OpenCart setup, significantly improving accounting and site management efficiency.
-- Implemented watermarking techniques to protect valuable digital assets from unauthorized use.
-- Streamlined the deployment process, reducing downtime and increasing system uptime.
-- Enhanced customer-facing features, leading to increased user satisfaction and engagement.
+- Optimized OpenCart setup, including backend PHP development and integration with MySQL databases.
+- Improved code efficiency and deployed updates using CI/CD practices.
 
 ### Software Engineer
 *Trellissoft Engineering Pvt Ltd*  
 *Goa, India*  
 *Mar 2022 – Aug 2024*
 
-- Collaborated on Business Intelligence (BI) tool development, significantly enhancing functionality.
-- Developed and performed unit tests, ensuring the quality and robustness of software solutions.
-- Integrated third-party APIs to extend system capabilities, improving overall service offerings.
-- Led the implementation of agile methodologies, resulting in improved project delivery times.
+- Developed and maintained PHP-based Business Intelligence tools, including robust, object-oriented code and unit tests.
+- Led implementation of CI/CD pipelines and integrated third-party APIs.
 
 ### Software Engineer
 *Team Inertia Technologies*  
 *Goa, India*  
 *May 2019 – Mar 2022*
 
-- Spearheaded development of critical company services, contributing to revenue growth.
-- Engineered PWAs for diverse sectors, enhancing business accessibility and engagement.
-- Mentored new hires, refining technical and business skills, and improving client communication.
-- Designed and executed scalable software architectures, supporting long-term business growth and stability.
+- Designed and executed scalable software architectures using PHP and Laravel, ensuring high-quality code and performance.
+- Mentored team members and contributed to a collaborative development environment.
 
 ## SKILLS
 
-- **Programming Languages:** Java (Java8 or above), Python, PHP
-- **Framework and Technologies:** Django, ReactJS, JavaScript, HTML, CSS, AJAX, Restful API, Git
-- **Databases:** MySQL, MSSQL, PostgreSQL, MongoDB (SQL/NoSQL), Influx
-- **Soft Skills:** Problem-Solving, Communication, Team Player, Change Management, Positive Attitude
+- **Programming Languages:** PHP (Laravel), Java, Python
+- **Frameworks and Technologies:** Laravel, MySQL, Git, GitLab CI/CD, AWS
+- **Software Development:** Test-Driven Development (TDD), Object-Oriented Programming, Unit Testing
+- **Soft Skills:** Collaborative Teamwork, Time Management, Attention to Detail, Problem-Solving
 
 ## EDUCATION
 
@@ -77,38 +67,27 @@ Grade: Distinction (First or 1st)
 
 ### Automated Test Management and Asset Scheduling System (ATMAS)
 
-- Key contributor to the development of ATMAS, a web-based solution transforming scheduling and asset management in advanced manufacturing, significantly enhancing productivity and ensuring data integrity.
-- Integrated key features such as asset tracking, intuitive scheduling, and secure communication, leading to more efficient management and operational processes.
-- Collaborated with cross-functional teams to ensure seamless integration and user adoption, conducting comprehensive testing and debugging for optimal performance and reliability.
-- Developed and maintained extensive documentation, providing training and support to users for effective system utilization.
+- Developed a web-based system with a focus on robust backend PHP development, integrating key features for enhanced asset management.
+- Conducted extensive testing and debugging to ensure high-quality code and system reliability.
 
 ### Business Management Suite for Ramjan Interiors
 
-- Developed a tailored software solution for Ramjan Interiors, streamlining business operations including quotation generation, bill of materials creation, and sale invoice management.
-- Implemented GST tracking and generated insightful reports for efficient income tax filing, contributing to improved business growth and operational efficiency.
-- Enhanced user experience through a user-friendly interface and comprehensive functionality, facilitating easier management and control of business processes.
-- Provided thorough user training and ongoing support to ensure effective utilization of the software, resulting in increased client satisfaction.
+- Built a tailored PHP application for business operations, including quotation generation and invoice management, utilizing MySQL for database management.
+- Implemented user-friendly interfaces and provided ongoing support to ensure effective system utilization.
 
 ## CERTIFICATIONS
 
-- Sustainable Software Architecture – LinkedIn
-- Change Management Skills – Live and Learn Consultancy
 - Master in Laravel – Udemy
-- Complete Java – Udemy
+- Sustainable Software Architecture – LinkedIn
 - Python Programming – Udemy
+- Complete Java – Udemy
 
 ## LEADERSHIP
 
 ### Academic Representative for MSc Computing, Sept 2022 cohort
 
-- Acted as a liaison between students and university administration, addressing and resolving concerns.
-- Participated in formal meetings, effectively communicating student feedback.
-- Attended training sessions to enhance skills in conflict resolution and negotiation.
-- Advocated for student needs, contributing to tangible enhancements in the MSc Computing program.
+- Acted as a liaison between students and administration, addressing concerns and improving the program based on feedback.
 
 ### Student Coordinator for inter-collegiate event Techlipse 2019
 
-- Led the organization of Techlipse 2019 at St. Xaviers’ College, involving over 8+ institutions, 50+ participants, and 100+ crew members.
-- Managed event planning, logistics, and coordination, overseeing a team of volunteers.
-- Coordinated marketing efforts, achieving high participation and engagement.
-- Engaged stakeholders, secured sponsorships, and maintained industry relationships.
+- Led the organization and coordination of Techlipse 2019, demonstrating strong project management and teamwork skills.

@@ -1,4 +1,5 @@
 import datetime
+import os
 
 class Config:
     """
@@ -13,8 +14,8 @@ class Config:
     linkedin = 'linkedin.com/in/mrmallik'
     github = 'github.com/mr-mallik'
 
-    resume_style = 'css/resume-style.css'
-    cover_letter_style = 'css/cover-style.css'
+    resume_style = os.path.join('css', 'resume-style.css')
+    cover_letter_style = os.path.join('css', 'cover-style.css')
 
     saveHtml = True
 
